@@ -55,12 +55,12 @@ Not public yet, so treat these as directions rather than results.
 
 <sub>LATEST COMMITS</sub><br>
 <!-- log:start -->
+`2026-11-10` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Drop the grain and gear layers on the chart page](https://github.com/0HBrar0/world-line/commit/d27a878e37b6aeb9c4661b2cc9423db3554bdb94)<br>
+`2026-11-10` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Keep the gears still behind the map so panning stays smooth](https://github.com/0HBrar0/world-line/commit/0dc847603ccf0fd079e24f4c70aa949d598ee955)<br>
+`2026-11-10` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Release 3.0.0: paper-and-gears redesign, the chronicle and D-Mail wording](https://github.com/0HBrar0/world-line/commit/5a1b0dfe926ea247db4e7d1b068500f6ca2755cc)<br>
 `2026-11-08` &nbsp; [tell-my-pc](https://github.com/0HBrar0/tell-my-pc) &nbsp; [feat: local dashboard](https://github.com/0HBrar0/tell-my-pc/commit/a172c43f04d477596616b6a55ba2a1f557004cb0)<br>
 `2026-11-08` &nbsp; [tell-my-pc](https://github.com/0HBrar0/tell-my-pc) &nbsp; [feat: tasks on the computer itself](https://github.com/0HBrar0/tell-my-pc/commit/fcd7212354270ee8975beb7609fe713a990992c1)<br>
 `2026-11-08` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Release 2.0.0: lab-bench redesign, world-line tracker and D-Mail files](https://github.com/0HBrar0/world-line/commit/85464fe14b13e58cae20330ab2310e4e25386d61)<br>
-`2026-11-08` &nbsp; [tell-my-pc](https://github.com/0HBrar0/tell-my-pc) &nbsp; [feat: autostart on macOS and Linux; serve waits for Tailscale](https://github.com/0HBrar0/tell-my-pc/commit/5d311164469ce484e65c4975c71c26fe0f39cfa9)<br>
-`2026-11-07` &nbsp; [tell-my-pc](https://github.com/0HBrar0/tell-my-pc) &nbsp; [docs: changelog and release notes for 1.0.0](https://github.com/0HBrar0/tell-my-pc/commit/4c461da26cd1ef6b913ccaeb435402eba0c03c86)<br>
-`2026-11-07` &nbsp; [tell-my-pc](https://github.com/0HBrar0/tell-my-pc) &nbsp; [docs: GitHub Pages site from docs/](https://github.com/0HBrar0/tell-my-pc/commit/76c0297efeeede2da911479ba7f8dc475a4ed614)<br>
 <!-- log:end -->
 
 <sub>This section rebuilds itself every day: a [GitHub Action](.github/workflows/build.yml) runs a [small Python script](scripts/build.py) against the GitHub API and redraws the panel. No third-party widgets.</sub>
