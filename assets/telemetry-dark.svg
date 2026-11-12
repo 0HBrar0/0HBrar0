@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-labelledby="t d">
 <title id="t">Telemetry for 0HBrar0</title>
-<desc id="d">3 public projects, 64 commits in the last 12 weeks. Languages: TypeScript 51%, Python 33%, CSS 10%, JavaScript 5%, GLSL 2%, Other 0%.</desc>
+<desc id="d">3 public projects, 65 commits in the last 12 weeks. Languages: TypeScript 51%, Python 33%, CSS 10%, JavaScript 5%, GLSL 2%, Other 0%.</desc>
 <rect x="0.5" y="0.5" width="1199" height="349" rx="14" fill="#0d1117" stroke="#1c2a2b"/>
 <text x="64" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#7d8b93">telemetry</text>
-<text x="1136" y="52" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1" fill="#7d8b93">rebuilt Nov 11, 2026</text>
+<text x="1136" y="52" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1" fill="#7d8b93">rebuilt Nov 12, 2026</text>
 <text x="64" y="118" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#e6edf3">3</text>
 <text x="65" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8b93">public projects</text>
-<text x="214" y="118" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#e6edf3">64</text>
+<text x="214" y="118" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#e6edf3">65</text>
 <text x="215" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8b93">commits · 12 wks</text>
 <text x="364" y="118" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#e6edf3">6</text>
 <text x="365" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8b93">languages</text>
 <rect x="560" y="84" width="576" height="8" rx="4" fill="#16232a"/>
 <clipPath id="bar"><rect x="560" y="84" width="576" height="8" rx="4"/></clipPath><g clip-path="url(#bar)">
-<rect x="560.0" y="84" width="288.9" height="8" fill="#3fd0b0"/>
-<rect x="850.9" y="84" width="186.8" height="8" fill="#2a8f80"/>
-<rect x="1039.7" y="84" width="55.1" height="8" fill="#7fb8ad"/>
-<rect x="1096.8" y="84" width="25.3" height="8" fill="#4d6b73"/>
-<rect x="1124.1" y="84" width="8.2" height="8" fill="#33464d"/>
+<rect x="560.0" y="84" width="289.4" height="8" fill="#3fd0b0"/>
+<rect x="851.4" y="84" width="185.9" height="8" fill="#2a8f80"/>
+<rect x="1039.3" y="84" width="55.7" height="8" fill="#7fb8ad"/>
+<rect x="1097.0" y="84" width="25.1" height="8" fill="#4d6b73"/>
+<rect x="1124.2" y="84" width="8.1" height="8" fill="#33464d"/>
 <rect x="1134.3" y="84" width="1.0" height="8" fill="#25343a"/>
 </g>
 <circle cx="564" cy="118" r="4" fill="#3fd0b0"/>
-<text x="576" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">TypeScript <tspan fill="#7d8b93">50.5%</tspan></text>
+<text x="576" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">TypeScript <tspan fill="#7d8b93">50.6%</tspan></text>
 <circle cx="760" cy="118" r="4" fill="#2a8f80"/>
-<text x="772" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">Python <tspan fill="#7d8b93">32.8%</tspan></text>
+<text x="772" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">Python <tspan fill="#7d8b93">32.6%</tspan></text>
 <circle cx="956" cy="118" r="4" fill="#7fb8ad"/>
-<text x="968" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">CSS <tspan fill="#7d8b93">9.9%</tspan></text>
+<text x="968" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">CSS <tspan fill="#7d8b93">10.0%</tspan></text>
 <circle cx="564" cy="142" r="4" fill="#4d6b73"/>
 <text x="576" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">JavaScript <tspan fill="#7d8b93">4.7%</tspan></text>
 <circle cx="760" cy="142" r="4" fill="#33464d"/>
@@ -45,9 +45,9 @@
 <rect x="606" y="208.0" width="14" height="2.0" rx="2" fill="#16232a" fill-opacity="1"/>
 <rect x="628" y="208.0" width="14" height="2.0" rx="2" fill="#16232a" fill-opacity="1"/>
 <rect x="650" y="188.0" width="14" height="22.0" rx="2" fill="#3fd0b0" fill-opacity="1"/>
-<rect x="672" y="201.0" width="14" height="9.0" rx="2" fill="#3fd0b0" fill-opacity="1"/>
-<text x="720" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8b93">32 commits</text>
-<text x="1136" y="208" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8b93">active · last commit Nov 11</text>
+<rect x="672" y="200.2" width="14" height="9.8" rx="2" fill="#3fd0b0" fill-opacity="1"/>
+<text x="720" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8b93">33 commits</text>
+<text x="1136" y="208" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7d8b93">active · last commit Nov 12</text>
 <circle cx="68" cy="244" r="3.5" fill="#3fd0b0" fill-opacity="1"/>
 <text x="84" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#e6edf3">tell-my-pc</text>
 <rect x="430" y="248.0" width="14" height="2.0" rx="2" fill="#16232a" fill-opacity="1"/>
