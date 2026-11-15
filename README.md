@@ -55,12 +55,12 @@ Not public yet, so treat these as directions rather than results.
 
 <sub>LATEST COMMITS</sub><br>
 <!-- log:start -->
+`2026-11-15` &nbsp; [clawdkin](https://github.com/0HBrar0/clawdkin) &nbsp; [Log errors to ~/.clawdkin/errors.log, isolate test instances, tidy up](https://github.com/0HBrar0/clawdkin/commit/a738984abc3042d8b130febf7cc45441cd364840)<br>
+`2026-11-15` &nbsp; [clawdkin](https://github.com/0HBrar0/clawdkin) &nbsp; [Clawdkin 0.1.0](https://github.com/0HBrar0/clawdkin/commit/aec1905d1a32242b4d2d8b70cc74523ddf892bf7)<br>
 `2026-11-12` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Rope map and a readable top bar on phones](https://github.com/0HBrar0/world-line/commit/80fd2d1c7378a030be2b504e0fb400417ee8b0ae)<br>
 `2026-11-11` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Redraw the mechanic animations as ink diagrams](https://github.com/0HBrar0/world-line/commit/99eed8280a91b529f7b0a98417643db0b753f561)<br>
 `2026-11-10` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Read a D-Mail on a phone without leaving the page](https://github.com/0HBrar0/world-line/commit/8d471ba659b657a83a0fb0cba9be9151bd402426)<br>
 `2026-11-10` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Rope map, clockwork motion and a Sources switch](https://github.com/0HBrar0/world-line/commit/eea16b82ba3f02686c07d3799f31cd3b3a97375f)<br>
-`2026-11-10` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Drop the grain and gear layers on the chart page](https://github.com/0HBrar0/world-line/commit/d27a878e37b6aeb9c4661b2cc9423db3554bdb94)<br>
-`2026-11-10` &nbsp; [world-line](https://github.com/0HBrar0/world-line) &nbsp; [Keep the gears still behind the map so panning stays smooth](https://github.com/0HBrar0/world-line/commit/0dc847603ccf0fd079e24f4c70aa949d598ee955)<br>
 <!-- log:end -->
 
 <sub>This section rebuilds itself every day: a [GitHub Action](.github/workflows/build.yml) runs a [small Python script](scripts/build.py) against the GitHub API and redraws the panel. No third-party widgets.</sub>
