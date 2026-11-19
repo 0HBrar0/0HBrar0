@@ -3,7 +3,7 @@
 <desc id="d">4 public projects, 67 commits in the last 12 weeks. Languages: TypeScript 42%, Python 27%, JavaScript 18%, CSS 9%, HTML 2%, Other 2%.</desc>
 <rect x="0.5" y="0.5" width="1199" height="389" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 <text x="64" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5" fill="#59636e">telemetry</text>
-<text x="1136" y="52" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1" fill="#59636e">rebuilt Nov 18, 2026</text>
+<text x="1136" y="52" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1" fill="#59636e">rebuilt Nov 19, 2026</text>
 <text x="64" y="118" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#1f2328">4</text>
 <text x="65" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e">public projects</text>
 <text x="214" y="118" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#1f2328">67</text>
@@ -60,8 +60,8 @@
 <rect x="584" y="248.0" width="14" height="2.0" rx="2" fill="#e6eeed" fill-opacity="1"/>
 <rect x="606" y="248.0" width="14" height="2.0" rx="2" fill="#e6eeed" fill-opacity="1"/>
 <rect x="628" y="228.0" width="14" height="22.0" rx="2" fill="#0f8a74" fill-opacity="1"/>
-<rect x="650" y="241.0" width="14" height="9.0" rx="2" fill="#0f8a74" fill-opacity="1"/>
-<rect x="672" y="245.3" width="14" height="4.7" rx="2" fill="#0f8a74" fill-opacity="1"/>
+<rect x="650" y="240.2" width="14" height="9.8" rx="2" fill="#0f8a74" fill-opacity="1"/>
+<rect x="672" y="248.0" width="14" height="2.0" rx="2" fill="#e6eeed" fill-opacity="1"/>
 <text x="720" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e">33 commits</text>
 <text x="1136" y="248" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e">active · last commit Nov 12</text>
 <circle cx="68" cy="284" r="3.5" fill="#0f8a74" fill-opacity="1"/>
