@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="0HBrar0 — systems, automation, experiments. A signal line branching into two projects: tell-my-pc and world-line." src="assets/header-dark.svg" width="100%">
+  <img alt="0HBrar0 — systems, automation, experiments. A signal line branching into three projects: tell-my-pc, clawdkin and world-line." src="assets/header-dark.svg" width="100%">
 </picture>
 
 I like finding out how systems actually work, then building something small and real on top of them. Lately that means AI agents that run safely on my own machine, browser apps that explain complicated things, and anything that connects software to the physical world.
@@ -19,6 +19,17 @@ Say *"Hey Siri, Tell Claude"*, dictate a task, put the phone away. A self-hosted
 The interesting part is containment: every tool call passes through a hook that enforces permission tiers (read, work, ask-on-phone, never), credential files and system folders are off-limits, and the list of changed files comes from `git diff`, not from the model. Design choices are written up as decision records alongside a threat model.
 
 `Python 3.12` `Starlette` `Tailscale` `ntfy` `pytest` · [docs](https://0hbrar0.github.io/tell-my-pc/) · [threat model](https://github.com/0HBrar0/tell-my-pc/blob/main/docs/threat-model.md)
+
+### [clawdkin](https://github.com/0HBrar0/clawdkin) &nbsp;·&nbsp; <sub>JavaScript · v0.1.2</sub>
+
+<p align="center"><a href="https://github.com/0HBrar0/clawdkin"><img src="assets/clawdkin.gif" width="260" alt="Clawdkin editing a file with a thought cloud above it, then holding up a sign to ask for permission, then celebrating."></a></p>
+
+A small desktop companion that sits on the taskbar and shows what Claude Code is doing: it works while Claude works, hops and holds up a `!` when Claude needs approval, and gets up to mischief in between. Hover for a thought cloud with the current file or command, so a long task can run without watching the terminal.
+
+Under the playfulness is a careful local pipeline: Claude Code hooks write small state files that an Electron app reads, nothing leaves the machine, and the hooks never block Claude, even when they fail. CI runs the tests on Windows, macOS and Linux.
+
+`Electron` `Node.js` `Claude Code hooks` `GitHub Actions` · [watch the demo →](https://github.com/0HBrar0/clawdkin#readme)
+
 
 ### [world-line](https://github.com/0HBrar0/world-line) &nbsp;·&nbsp; <sub>TypeScript · live</sub>
 
