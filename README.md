@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="0HBrar0 — systems, automation, experiments. A signal line branching into three projects: tell-my-pc, world-line and watcher-simulator." src="assets/header-dark.svg" width="100%">
+  <img alt="0HBrar0 — systems, automation, experiments. A signal line branching into two projects: tell-my-pc and world-line." src="assets/header-dark.svg" width="100%">
 </picture>
 
 I like finding out how systems actually work, then building something small and real on top of them. Lately that means AI agents that run safely on my own machine, browser apps that explain complicated things, and anything that connects software to the physical world.
@@ -27,12 +27,6 @@ The interesting part is containment: every tool call passes through a hook that 
 An interactive, spoiler-safe explainer of the *Steins;Gate* time-travel story: a branching world-line map, animated mechanic walkthroughs, and a guided story mode. Every story fact comes from one validated data file and shows a confidence badge linking to its sources, and spoiler tiers keep later content out of the page entirely until you unlock it.
 
 `React` `TypeScript` `Zod` `Framer Motion` `Vitest` `Playwright` · [open the site →](https://0hbrar0.github.io/world-line/)
-
-### [watcher-simulator](https://github.com/0HBrar0/watcher-simulator) &nbsp;·&nbsp; <sub>TypeScript · live</sub>
-
-A 3D universe you can fly through in the browser, then watch through the eyes of the cosmic observer who has been looking at it all along. Zoom far enough into Earth and it hands off to real satellite imagery and street maps, lined up with the 3D planet. Unofficial fan project.
-
-`Three.js` `React Three Fiber` `MapLibre GL` `WebGL 2` `GitHub Actions` · [open the site →](https://0hbrar0.github.io/watcher-simulator/)
 
 <br>
 

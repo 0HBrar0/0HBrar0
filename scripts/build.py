@@ -24,6 +24,8 @@ USER = "0HBrar0"
 ROOT = Path(__file__).resolve().parent.parent
 WEEKS = 12
 LOG_ITEMS = 6
+# Public repos to leave off the profile (lower-case names).
+EXCLUDE = {"watcher-simulator"}
 
 THEMES = {
     "dark": dict(bg="#0d1117", border="#1c2a2b", grid="#16212a", text="#e6edf3", muted="#7d8b93",
@@ -54,7 +56,7 @@ def fetch() -> dict:
     since = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(weeks=WEEKS)).strftime("%Y-%m-%dT%H:%M:%SZ")
     repos = []
     for r in api(f"/users/{USER}/repos?type=owner&per_page=100"):
-        if r["fork"] or r["archived"] or r["private"] or r["name"].lower() == USER.lower():
+        if r["fork"] or r["archived"] or r["private"] or r["name"].lower() in EXCLUDE | {USER.lower()}:
             continue
         commits, page = [], 1
         while True:

@@ -11,7 +11,7 @@ def svg(t):
     c = THEMES[t]
     grid = "".join(f'<line x1="{x}" y1="24" x2="{x}" y2="296" stroke="{c["grid"]}" stroke-width="1"/>' for x in range(80, 1200, 80))
     ticks = "".join(f'<line x1="{x}" y1="246" x2="{x}" y2="{252 if x%160 else 256}" stroke="{c["muted"]}" stroke-opacity=".5" stroke-width="1"/>' for x in range(64, 680, 32))
-    branches = [(120, "tell-my-pc"), (185, "world-line"), (250, "watcher-simulator")]
+    branches = [(140, "tell-my-pc"), (215, "world-line")]
     paths, nodes, pulses = "", "", ""
     for i,(y,label) in enumerate(branches):
         paths += f'<path d="M680 250 C 790 250, 820 {y}, 930 {y} L 1100 {y}" fill="none" stroke="{c["accent"] if i==0 else c["accent2"]}" stroke-width="{1.6 if i==0 else 1.2}" stroke-opacity="{1 if i==0 else .8}"/>'
@@ -24,7 +24,7 @@ def svg(t):
                   f'<text x="1088" y="{y-10}" text-anchor="end" font-family="{MONO}" font-size="12" fill="{c["muted"]}">{label}</text>')
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
 <title id="t">0HBrar0</title>
-<desc id="d">Header: the handle 0HBrar0 over a signal line that branches into three public projects.</desc>
+<desc id="d">Header: the handle 0HBrar0 over a signal line that branches into two public projects.</desc>
 <style>@keyframes p{{0%,100%{{opacity:1}}50%{{opacity:.25}}}}.p{{animation:p 2.4s ease-in-out infinite}}@media (prefers-reduced-motion:reduce){{.p{{animation:none}}.pulse{{display:none}}}}</style>
 <rect x="0.5" y="0.5" width="1199" height="319" rx="14" fill="{c["bg"]}" stroke="{c["border"]}"/>
 <g>{grid}</g>
